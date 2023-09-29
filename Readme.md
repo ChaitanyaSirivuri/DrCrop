@@ -52,7 +52,7 @@ To run Dr. Crop on your local machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/drcrop.git
+   git clone https://github.com/ChaitanyaSirivuri/DrCrop
    ```
 
 2. Navigate to the project directory:
